@@ -1,4 +1,4 @@
-# Renato Dias, PhD
+# Renato Dias Costa, PhD
 
 I hold a degree in Computer Engineering, a Master’s degree and a PhD in Mathematics, with experience in software development and implementing mathematical models.
 
