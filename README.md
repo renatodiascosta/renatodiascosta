@@ -1,6 +1,8 @@
 # Renato Dias Costa, PhD
 
-I hold a degree in Computer Engineering, a Master’s degree and a PhD in Mathematics, with experience in software development and implementing mathematical models.
+I hold a degree in Computer Engineering, a Master’s degree and a PhD in Mathematics, with experience in software development and implementing mathematical models. 
+
+I'm currently interested in Machine Learning and Mathematics applied to business and industry.
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +29,7 @@ I hold a degree in Computer Engineering, a Master’s degree and a PhD in Mathem
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2302.05485)
 
-### Preprints:
+### Papers in preprint:
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-0ac730.svg?style=for-the-badge)](https://arxiv.org/abs/2206.03549)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-2d9fc2.svg?style=for-the-badge)](https://arxiv.org/abs/2301.03137)
