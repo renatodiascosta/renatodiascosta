@@ -29,7 +29,7 @@ I'm currently interested in Machine Learning and Mathematics applied to business
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2302.05485)
 
-### Papers in preprint:
+### Preprints:
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-0ac730.svg?style=for-the-badge)](https://arxiv.org/abs/2206.03549)
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-2d9fc2.svg?style=for-the-badge)](https://arxiv.org/abs/2301.03137)
