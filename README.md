@@ -2,7 +2,7 @@
 
 I hold a degree in Computer Engineering, a Master’s degree and a PhD in Mathematics, with experience in software development and implementing mathematical models. 
 
-I'm currently interested in Machine Learning and Mathematics applied to business and industry.
+I'm currently interested in Machine Learning and Mathematics applied to markets and industry.
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
